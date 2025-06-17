@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorrectionExerciceEF", "CorrectionExerciceEF\CorrectionExerciceEF.csproj", "{37F9E1F8-BC2E-4690-AAD0-A74C9959C00C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorrectionExerciceEF.Domain", "CorrectionExerciceEF.Domain\CorrectionExerciceEF.Domain.csproj", "{06874A6D-49EB-443F-8E5B-1DB1CF3B29FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37F9E1F8-BC2E-4690-AAD0-A74C9959C00C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37F9E1F8-BC2E-4690-AAD0-A74C9959C00C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37F9E1F8-BC2E-4690-AAD0-A74C9959C00C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37F9E1F8-BC2E-4690-AAD0-A74C9959C00C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06874A6D-49EB-443F-8E5B-1DB1CF3B29FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06874A6D-49EB-443F-8E5B-1DB1CF3B29FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06874A6D-49EB-443F-8E5B-1DB1CF3B29FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06874A6D-49EB-443F-8E5B-1DB1CF3B29FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C47D2CEA-2AF7-4544-8190-0E6FE93A91AD}
+	EndGlobalSection
+EndGlobal
